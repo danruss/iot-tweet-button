@@ -1,0 +1,25 @@
+{
+  "name": "iotweetbutton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tweet.js",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "twitter": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "handler"
+  },
+  "keywords": [
+    "iot",
+    "aws",
+    "reinvent",
+    "internet",
+    "of",
+    "things",
+    "button"
+  ],
+  "author": "Dan Russell",
+  "license": "ISC"
+}
